@@ -235,12 +235,12 @@
 - US News ranking: (All/140, Eng/140, CS/--)
 - Carnegie Classification: R2
 
-###CS
+### CS
 - Dr. Xiaobai Liu
     - area:3D Pose Estimation,Learning,Reconstruction,  CVPR
     - [lab](https://cv.sdsu.edu/)
 
-###ME
+### ME
 - Dr.Peiman Naseradinmousavi
      - areas: Dynamic Systems and Control
      - [web](https://peimannm.sdsu.edu/)
