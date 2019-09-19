@@ -23,7 +23,7 @@
 
 ---
 
-#University of California - San Diego: 
+# University of California - San Diego: 
 - US News ranking: (All/39, Eng/12, CS/16)
 - Carnegie Classification: R1
 
