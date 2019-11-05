@@ -49,7 +49,7 @@
 ### EECS [1.10](https://school.eecs.wsu.edu/academics/graduate-program/graduate_admissions/)
 
 - Dr. Matthew E. Taylor
-    - [lab](https://www.ece.ncsu.edu/people/ejlobato/)
+    - [lab](https://irll.eecs.wsu.edu/lab-members/matthew-taylor/)
     - Research:Autonomous robots, learning,Optimization
 
 - Dr. Diane Cook
