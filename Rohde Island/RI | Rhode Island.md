@@ -1,13 +1,13 @@
 # University of Rhode Island:
 - US News ranking: (All/166, Eng/156, CS/119)
-- Carnegie Classification: R1
+- Carnegie Classification: R2
 
-###ECE
+### ECE
 - Dr.Paolo Stegagno
     - Researches:Perception and estimation for Multi-Robot Systems, UAV control, computer vision
     - [web](https://paolostegagno.wixsite.com/robotics)
 
-###Oceanography
+### Oceanography
 - Dr.Mingxi Zhou
     - [web](https://soslab.wordpress.com/join-us/)
     - Researches: Underwater Robotics, plth planning, slam, sensor fusion
@@ -16,7 +16,7 @@
     + underwater robotics, seabed mapping
     + [web](https://web.uri.edu/gso/meet/chris-roman/)
 
-###ME
+### ME
 - Dr. Chengzhi Yuan
     - [web](https://sites.google.com/site/chengzhiy16/home)
     - area: dynamic systems, control theory,machine learning for multi-agent systems
